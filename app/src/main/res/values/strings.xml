@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Xinder</string>
+
+    <string name="title_slider_1">Get Gold Membership</string>
+    <string name="description_slider_1">See who likes you and more!</string>
+
+    <string name="title_slider_2">Get matches faster</string>
+    <string name="description_slider_2">Boost your profile once in month</string>
+
+    <string name="title_slider_3">Stand out with Super Likes</string>
+    <string name="description_slider_3">You are 3 times more likely to get a match</string>
+
+    <string name="title_slider_4">Swipe round the world </string>
+    <string name="description_slider_4">Passport to anywhere using Plus</string>
+
+    <string name="title_slider_5">Get Gold Membership</string>
+    <string name="description_slider_5">Boost your profile once in month</string>
+
+    <string name="title_slider_6">Get matches faster</string>
+    <string name="description_slider_6">See who likes you and more!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
